@@ -4,7 +4,7 @@
         Welcome to creaoor99soc!
     </h3>
 </header>
-<div class="home"><a href="post related/home.php">Home</a></div>
+<div class="home"><a href="home.php">Home</a></div>
 <?php
 // This file is used for the host
 ?>
